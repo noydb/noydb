@@ -1,16 +1,19 @@
-### Hi there 👋
+### Commits
 
-<!--
-**noydb/noydb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![noydb stats](https://github-readme-stats.vercel.app/api?username=noydb&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![noydb language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noydb&theme=tokyonight&hide_border=true)
+
+### Repositories
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noydb&repo=oworms-api&theme=tokyonight&hide_border=true)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noydb&repo=oworms-ui&theme=tokyonight&hide_border=true)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noydb&repo=ts-utils&theme=tokyonight&hide_border=true)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noydb&repo=noydb.wtf&theme=tokyonight&hide_border=true)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=noydb&repo=gp-utility&theme=tokyonight&hide_border=true)
