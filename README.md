@@ -39,5 +39,5 @@
 6. Accessibility
 7. Emotion
 8. Flexibility (Customisability) & Efficiency (Shortcuts)
-9. Rapid Prototyping; create quick prototypes to test ideas
-10. User Testing; conduct regular user testing sessions for feedback 
+9. Quick & Inexpensive Prototyping For Testing
+10. Constant User Testing & feedback 
