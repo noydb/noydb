@@ -1,9 +1,9 @@
-1. STAGNATION IS THE MIGHTIEST FOE OF THE DEVELOPER
+1. STAGNATION IS THE MIGHTIEST FOE
 2. DO IT YOURSELF; WRITE CODE FROM SCRATCH WHERE POSSIBLE
 3. THE MOST CRITICAL TOOL IS A MIND WELL EDUCATED IN DESIGN PRINCIPLES
 4. THE ABILITY TO DISCOVER IS CARDINAL
 5. ALWAYS BE THE WORST GUY IN EVERY BAND THAT YOU’RE IN
-6. DON’T IMPROVISE; AVOID TEMPORARY FIXES BECOMING PERMANENT
+6. AVOID TEMPORARY FIXES BECOMING PERMANENT
 7. OPTIMIZATION WITHOUT FIRST MEASURING IS ALMOST ALWAYS PREMATURE
 8. WHAT IS RIGHT IS NOT ALWAYS POPULAR AND WHAT IS POPULAR IS NOT ALWAYS RIGHT
 9. CONSISTENCY IS A REFUGE FOR THE PEOPLE WHO MUST READ MY CODE LATER ON
@@ -15,13 +15,14 @@
 ### DESIGN PRINCIPLES
 1. Encapsulation
 2. Separation of Concerns
-3. Single Responsibility Principle
+3. Single Responsibility
 4. Modularity. High Cohesion. Low Coupling
-5. Interface Segregation Principle
+5. Interface Segregation
 6. Name as short as possible but as long as necessary
-7. YAGNI
-8. KISS
-9. DOCUMENTATION DOCUMENTATION DOCUMENTATION
+7. Tests must replicate how the software is used
+8. YAGNI/KISS/Gall's Law
+9. POLA
+10. DOCUMENTATION DOCUMENTATION DOCUMENTATION
 
 ## SECURITY
 1. Principle of Least Privilege
@@ -41,3 +42,7 @@
 8. Flexibility (Customisability) & Efficiency (Shortcuts)
 9. Quick & Inexpensive Prototyping For Testing
 10. Constant User Testing & feedback 
+
+---
+
+“I'm not a great programmer; I'm just a good programmer with great habits.”
