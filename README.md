@@ -21,7 +21,7 @@
 6. Name as short as possible but as long as necessary
 7. YAGNI/KISS/Gall's Law
 8. Tests must replicate how the software is used
-9. POLA
+9. Principle of Least Astonishment
 10. DOCUMENTATION DOCUMENTATION DOCUMENTATION
 
 ## SECURITY
