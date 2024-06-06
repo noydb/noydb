@@ -31,7 +31,7 @@
 4. Fail-Secure
 5. Input Validation
 
-## USER CENTRIC
+## UI/UX DESIGN PRINCIPLES
 1. Empathy Mapping (think, feel, see, hear, say, and do)
 2. Walk A Mile
 3. Minimalism; any visible element must have a purpose
