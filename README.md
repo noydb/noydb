@@ -12,15 +12,15 @@
 
 ---
 
-### DESIGN PRINCIPLES
+### SOFTWARE DESIGN PRINCIPLES
 1. Encapsulation
 2. Separation of Concerns
 3. Single Responsibility
 4. Modularity. High Cohesion. Low Coupling
 5. Interface Segregation
 6. Name as short as possible but as long as necessary
-7. Tests must replicate how the software is used
-8. YAGNI/KISS/Gall's Law
+7. YAGNI/KISS/Gall's Law
+8. Tests must replicate how the software is used
 9. POLA
 10. DOCUMENTATION DOCUMENTATION DOCUMENTATION
 
