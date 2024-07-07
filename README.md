@@ -20,7 +20,7 @@
 5. Interface Segregation
 6. Name as short as possible but as long as necessary
 7. YAGNI/KISS/Gall's Law
-8. Tests must replicate how the software is used
+8. The more tests resemble the way the software is used, the more confidence they can provide
 9. Principle of Least Astonishment
 10. DOCUMENTATION DOCUMENTATION DOCUMENTATION
 
