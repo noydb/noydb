@@ -21,8 +21,9 @@
 6. Name as short as possible but as long as necessary
 7. YAGNI/KISS/Gall's Law
 8. The more tests resemble the way the software is used, the more confidence they can provide
-9. Principle of Least Astonishment
-10. DOCUMENTATION DOCUMENTATION DOCUMENTATION
+9. Waterbed Theory
+10. Principle of Least Astonishment
+11. DOCUMENTATION DOCUMENTATION DOCUMENTATION
 
 ## SECURITY
 1. Principle of Least Privilege
